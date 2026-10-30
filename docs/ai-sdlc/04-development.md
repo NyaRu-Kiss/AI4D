@@ -11,7 +11,7 @@
 5. 数据库迁移、权限、支付、删除和外部写操作，先提交计划和影响面，人接受之后才允许执行。
 6. Prompt、工具 Schema、评测脚本和业务代码分开展示差异，避免一个巨大提交里混着四类变更。
 
-DORA 在 2025 年《State of AI-assisted Software Development》的公开摘要里写明：生成式 AI 主要是放大器，会放大组织既有的优点和弱点；收益来自交付系统本身，而不是工具单独带来的。因此开发阶段先修评审、测试和任务切分，再增加 Coding Agent。来源：<https://dora.dev/research/2025/dora-report/>（2026-10-30 检索）。
+DORA 在 2025 年《State of AI-assisted Software Development》的公开摘要里写明：生成式 AI 主要是放大器，会放大组织既有的优点和弱点；收益来自交付系统本身，而不是工具单独带来的。因此开发阶段先修评审、测试和任务切分，再增加 Coding Agent。来源：<https://dora.dev/research/2025/dora-report/>（2026-10-30 检索）。同一天打开的 [DORA AI 入口](https://dora.dev/ai/) 把《ROI of AI-assisted Software Development》标成最新报告，并单列 AI Capabilities Model。这两份正文没有打开，这里不摘录它们的结论。
 
 ## 2.4.2 前端
 

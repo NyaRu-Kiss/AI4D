@@ -40,7 +40,7 @@ OWASP Top 10 for LLM Applications 2025 的条目名称，在项目页上可以�
 
 离线评测进 CI。线上按场景抽样，人工看自动评分判为通过但用户修改了的例子。自动评分规则本身也要版本化。评分模型和被测模型是同一个时，记录这个事实，避免把自评分当成独立证据。
 
-DORA 2025 报告的公开摘要说，AI 放大的是组织已有的交付能力。评测门禁弱的团队，加上 Coding Agent 之后，进入主干的缺陷也会变多。来源：<https://dora.dev/research/2025/dora-report/>。
+DORA 2025 报告的公开摘要说，AI 放大的是组织已有的交付能力。评测门禁弱的团队，加上 Coding Agent 之后，进入主干的缺陷也会变多。来源：<https://dora.dev/research/2025/dora-report/>。2026-10-30 的 <https://dora.dev/ai/> 另把《ROI of AI-assisted Software Development》标成最新报告。该报告正文未打开，不把它的框架写进门禁。
 
 ## 5.3 观测最少字段
 

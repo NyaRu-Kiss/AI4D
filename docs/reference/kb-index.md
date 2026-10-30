@@ -25,7 +25,7 @@
 
 | 页面 | 用在 |
 | --- | --- |
-| <https://dora.dev/ai/> | DORA 的 AI 报告入口 |
+| <https://dora.dev/ai/> | DORA 的 AI 入口。2026-10-30 页面把《ROI of AI-assisted Software Development》标成最新报告，并列出 AI Capabilities Model。这两份正文未打开 |
 | <https://dora.dev/research/2025/dora-report/> | 2025 报告公开摘要：AI 是放大器 |
 | <https://www.nist.gov/itl/ai-risk-management-framework> | AI RMF 1.0、生成式 AI 轮廓、2026 年修订说明 |
 | <https://genai.owasp.org/llm-top-10/> | 2025 十条名称 |
